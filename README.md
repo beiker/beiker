@@ -4,8 +4,6 @@ Senior Full-stack Software Developer with 10+ years experience creating and impr
 
 Passionate about coding standards, UI/UX, and best practices.
 
-Tech Stack: Javascript (ES6), Typescript, React, React Native, NodeJS.
-
 <!--
 **beiker/beiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
