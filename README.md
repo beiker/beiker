@@ -21,7 +21,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
 ## Github Overview
 
 <img align="left" alt="Oscar Alcantar Github Stats" src="https://github-readme-stats-seven-beryl-28.vercel.app/api?username=beiker&show_icons=true&theme=dark" /> &nbsp;
 [![Top Langs](https://github-readme-stats-seven-beryl-28.vercel.app/api/top-langs/?username=beiker&theme=dark)](stats)
+-->
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/oscar-alcantars/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
